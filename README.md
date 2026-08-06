@@ -38,7 +38,7 @@ Me interesa entender cómo funcionan las cosas, escribir código claro y mejorar
 
 ![UML](https://img.shields.io/badge/UML-%23000000.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)
 
-- **En que estoy trabajando:**
+- **Aplicaciones moviles:**
 
 <p>Proyecto final con:<p> 
   
